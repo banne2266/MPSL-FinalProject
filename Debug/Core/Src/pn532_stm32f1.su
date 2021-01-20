@@ -1,0 +1,10 @@
+pn532_stm32f1.c:56:5:PN532_Reset	8	static
+pn532_stm32f1.c:66:6:PN532_Log	16	static
+pn532_stm32f1.c:70:6:PN532_Init	16	static
+pn532_stm32f1.c:174:6:i2c_read	24	static
+pn532_stm32f1.c:178:6:i2c_write	24	static
+pn532_stm32f1.c:182:5:PN532_I2C_ReadData	40	dynamic
+pn532_stm32f1.c:196:5:PN532_I2C_WriteData	16	static
+pn532_stm32f1.c:201:6:PN532_I2C_WaitReady	24	static
+pn532_stm32f1.c:215:5:PN532_I2C_Wakeup	8	static
+pn532_stm32f1.c:226:6:PN532_I2C_Init	16	static
